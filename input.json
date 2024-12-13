@@ -1,0 +1,17 @@
+{
+    "appConfig": {
+        "appName": "MyWebApp",
+        "version": 1.0,
+        "database": {
+            "host": "localhost",
+            "port": 5432,
+            "user": "admin",
+            "password": "secret"
+        },
+        "features": {
+            "enableLogging": true,
+            "maxConnections": 100
+        }
+    },
+    "print": "Application configuration loaded."
+}

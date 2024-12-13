@@ -1,0 +1,9 @@
+var appConfig var appName @"MyWebApp"
+var version 1.0
+var database var host @"localhost"
+var port 5432
+var user @"admin"
+var password @"secret"
+var features var enableLogging True
+var maxConnections 100
+var print @"Application configuration loaded."

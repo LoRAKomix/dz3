@@ -1,0 +1,16 @@
+{
+    "calculations": {
+        "addition": {
+            "operand1": 10,
+            "operand2": 25,
+            "result": "operand1 + operand2"
+        },
+        "subtraction": {
+            "operand1": 50,
+            "operand2": 15,
+            "result": "operand1 - operand2"
+        }
+    },
+    "print": "Calculations completed."
+}
+

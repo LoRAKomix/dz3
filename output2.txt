@@ -1,0 +1,7 @@
+var calculations var addition var operand1 10
+var operand2 25
+var result @"operand1 + operand2"
+var subtraction var operand1 50
+var operand2 15
+var result @"operand1 - operand2"
+var print @"Calculations completed."
